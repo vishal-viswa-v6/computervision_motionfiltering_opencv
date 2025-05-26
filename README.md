@@ -23,7 +23,6 @@ The mask (binary foreground image) is displayed in real time, and the script loo
 - Python 3.x
 - OpenCV (cv2)
 
-Install OpenCV if you haven't already:
+Install OpenCV:
 
-```bash
 pip install opencv-python
